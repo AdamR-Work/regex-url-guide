@@ -35,39 +35,43 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Quantifiers
 
-
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
    These are used to deterimine how far to search.
 
 - babyphoto.*  
   Matches a babyphoto you are looking for but cant remember what type of file format it was saved in. So this will return all types
 -  + ^/[a-z0-9]
 ?
-### OR Operator
-
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Character Classes
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Flags
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Grouping and Capturing
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Bracket Expressions
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Greedy and Lazy Match
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
    Greedy is going to bring back everything after your regex params.
    For example this: 
 
@@ -84,16 +88,19 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Boundaries
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Back-references
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ### Look-ahead and Look-behind
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
-
+#### Using the following code
+> ``/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/``
+>
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
